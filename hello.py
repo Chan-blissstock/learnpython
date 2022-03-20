@@ -1,2 +1,2 @@
-greed = "hello world"
+greed = "hello world from python"
 print(greed)
